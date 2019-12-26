@@ -1,0 +1,20 @@
+***LOGIN***
+git config --global user.name "coddejacker7"
+git config --global user.email prince.ankur.pv@gmail.com
+
+***CLONING***
+git clone https://github.com/codejacker7/test.git  (//COPIED THIS LINK FROM REPOSITORY)
+
+
+***WORKING***
+use cd, ls, mkdir normally as linux
+
+git add a.txt (//THIS COMMAND FIRST TIME ONLY)
+git status
+git commit -m "comment goes here" a.txt
+git push -u origin master
+
+//on updates jst need to commit n push
+git status
+git commit -m "update 1" strts.txt
+git push -u origin master
